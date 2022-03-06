@@ -25,7 +25,7 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/DavitTec)
 [![become-a-backer](https://opencollective.com/fileit/backers.svg?width=890)](https://opencollective.com/fileit#backers)
 
-<ProjectName> is a <utility/tool/feature> that allows <insert_target_audience> to do <action/task_it_does>.
+\<ProjectName> is a <utility/tool/feature> that allows <insert_target_audience> to do <action/task_it_does>.
 
 Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. Don't go overboard, people won't read it.
 ### Features
